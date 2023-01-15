@@ -1,0 +1,13 @@
+{
+  "files.exclude": {
+    "yarn.lock": true,
+    ".gitignore": true,
+    ".yarn": true,
+    "node_modules": true,
+    "public": true,
+    ".yarnrc.yml": true,
+    "tsconfig.json": false,
+    "README.md": true,
+    ".vscode": false
+  }
+}
